@@ -1,0 +1,2 @@
+rootProject.name = "Inputcontrol"
+include ':app'
