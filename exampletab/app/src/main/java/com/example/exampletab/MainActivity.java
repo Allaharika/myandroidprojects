@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             return title.length;
         }
 
-           
+
             @Override
             public CharSequence getPageTitle(int position) {
                 return title[position];
