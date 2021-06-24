@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932309509146",
+    "project_id": "authexfire",
+    "storage_bucket": "authexfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932309509146:android:9ff40af10f166bcb6a1da3",
+        "android_client_info": {
+          "package_name": "com.example.authenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932309509146-taff69t6kbin21214eiv7puqs082fhgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticationexample",
+            "certificate_hash": "d0791afcceaa3ca8a873d11fa3d33b74acffbfc0"
+          }
+        },
+        {
+          "client_id": "932309509146-mgev793a1vulgpqatbpiv92pliirt0pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJA-RaTMHsjZwURHUOouQpS-STCgCHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932309509146-mgev793a1vulgpqatbpiv92pliirt0pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
