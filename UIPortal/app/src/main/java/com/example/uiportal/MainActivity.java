@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        imageViewNoC = (ImageView) findViewById(R.id.imagViewNoInternet);
+        imageViewNoC = (ImageView) findViewById(R.id.imageViewNoInternet);
         txtConnection = (TextView) findViewById(R.id.textC);
         webView = (WebView) findViewById(R.id.webView);
         progressDialog = new ProgressDialog(this);

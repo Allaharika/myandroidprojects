@@ -13,7 +13,7 @@
 
     </WebView>
    <ImageView
-       android:id="@+id/imagViewNoInternet"
+       android:id="@+id/imageViewNoInternet"
        android:layout_width="match_parent"
        android:layout_height="200dp"
        android:src="@drawable/no_internet"
