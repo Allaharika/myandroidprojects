@@ -100,29 +100,27 @@
                 android:layout_width="match_parent"
                 android:layout_height="fill_parent"
                 android:layout_marginTop="20dp"
-                android:gravity="center_horizontal"
-                >
+                android:gravity="center_horizontal">
 
                 <ImageView
+                    android:id="@+id/lgoo"
                     android:layout_width="40dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/youtube"
-                    android:id="@+id/lgoo"
-                    />
+                    android:src="@drawable/youtube" />
+
                 <TextView
                     android:id="@+id/txtChannel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="youtube.com/nec"
-                    android:textSize="17dp"
-                    android:layout_toRightOf="@id/lgoo"
                     android:layout_alignBottom="@id/lgoo"
-                    android:layout_marginBottom="15dp"
-                    android:textStyle="italic"
-                    android:textColor="#6200EA"
                     android:layout_marginLeft="10dp"
+                    android:layout_marginBottom="15dp"
+                    android:layout_toRightOf="@id/lgoo"
                     android:onClick="txtSub"
-                    />
+                    android:text="youtube.com/nec"
+                    android:textColor="#6200EA"
+                    android:textSize="17dp"
+                    android:textStyle="italic" />
 
 
             </RelativeLayout>
